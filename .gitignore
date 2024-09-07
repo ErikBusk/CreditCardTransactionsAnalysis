@@ -1,0 +1,11 @@
+# Ignore zip files
+*.zip
+
+# Ignore Jupyter Notebook version file
+.ipynb_checkpoints
+
+# Ignore .Ds_Store file
+.DS_Store
+
+# Ignore dataset (Due to large file size)
+.csv
