@@ -9,3 +9,6 @@
 
 # Ignore dataset (Due to large file size)
 creditcard.csv
+
+# Ignore best model file
+best_model.h5
